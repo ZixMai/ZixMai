@@ -6,7 +6,7 @@ Here are some info about me:
 
 - 📫 You can contact me on [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zixrend)
 - 🔭 I’m currently working on MAI 806 department's web and desktop projects
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and Java
 - ⚡ Fun fact: I’m looking for help with internship
 
 # 💻 Tech Stack:
